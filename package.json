@@ -1,0 +1,10 @@
+{
+  "name": "PFCLI",
+  "version": "1.0.0",
+  "description": "Points for Celiacs and Lactose Intolerants",
+  "main": "app.tsx",
+  "repository": "https://github.com/EduardoFertigBastos/PFCLI",
+  "author": "Eduardo Fertig Bastos",
+  "license": "MIT",
+  "private": true
+}
