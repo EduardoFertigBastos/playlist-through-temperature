@@ -1,6 +1,7 @@
 import app from './app';
 
-const port = 3333;
-app.listen({ port }, () =>
-  console.info("I'veeee become so nuuumb🎶🎶🎶", `http://localhost:${port}/`),
-);
+
+const PORT = 3333;
+const HOST = '0.0.0.0';
+
+app.listen(PORT, HOST);
